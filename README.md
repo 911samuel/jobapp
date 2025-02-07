@@ -106,5 +106,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [abayizeraeaz@gmail.com](ABAYIZERA Samuel)
-Project Link: [https://github.com/911samuel/jobapp.git](911samuel)
+ABAYIZERA Samuel - abayizeraeaz@gmail.com
+Project Link: https://github.com/911samuel/jobapp.git
